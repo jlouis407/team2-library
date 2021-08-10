@@ -1,6 +1,7 @@
 # team2-library
 
 <!-- ✔️ use this check for status -->
+Library web application using JDBC, Servlets, JSPs and Maven
 
 |Login       |FileName      | Assignment | Status |
 | ---   | ---          | ---       | --- |
