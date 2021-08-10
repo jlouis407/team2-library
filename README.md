@@ -14,7 +14,7 @@
 |       |BookCheckoutDAO  |  Nina | |
         
 |    JSP   |FileName      | Assignment | Status |
-|---|---| ---|  --- | --- |
+| --- | --- | ---|  --- | --- |
 |   |index |  |  |
 |      |signup | Danny |   |
 |      |login | |  |
