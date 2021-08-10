@@ -9,6 +9,8 @@
 |       |BookDAO       | |
 |       |BookCheckout  | |
         
+|       |FileName      | Assignment |
+| ---   | ---          | ---       |        
 |JSP   |index | |
 |      |signup | |
 |      |login | |
@@ -20,15 +22,19 @@
 |      |update-book | |
 |      |account-approval | |
 |      |librarian-update | |
-      
+ 
+|       |FileName      | Assignment |
+| ---   | ---          | ---       | 
 |Database(jdcb)| tables ||
 |              |patron |
 |              |library |
 |              |book |
 |              |book_checkout |
 
+|       |FileName      | Assignment |
+| ---   | ---          | ---        | 
 |Servelts| BookServlet | |
-         | PatronServlet| |
-         | prevCheckoutServlet |  |
-         | CurrCheckoutServlet |  |
+|       | PatronServlet| |
+|         | prevCheckoutServlet |  |
+|         | CurrCheckoutServlet |  |
         
