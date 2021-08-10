@@ -13,8 +13,8 @@
 |       |BookCheckout  |  Nina | |
 |       |BookCheckoutDAO  |  Nina | |
         
-|    JSP   |FileName      | Assignment | Status |
-| --- | --- | ---|  --- | --- |
+| JSP   |FileName      | Assignment | Status |
+| ---   | ---          | ---        |  --- |
 |   |index |  |  |
 |      |signup | Danny |   |
 |      |login | |  |
