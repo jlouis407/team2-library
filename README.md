@@ -12,8 +12,8 @@
         
 |    JSP   |FileName      | Assignment |
 | ---   | ---          | ---       |        
-|   |index | |
-|      |signup | |
+|   |index | Danny |
+|      |signup | Danny |
 |      |login | |
 |      |book-list  | |
 |      |checkout-previous | |
