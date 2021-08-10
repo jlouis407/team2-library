@@ -35,6 +35,6 @@
 | ---   | ---          | ---        | 
 |       | BookServlet | |
 |       | PatronServlet| |
-|         | prevCheckoutServlet |  |
+|         | PrevCheckoutServlet |  |
 |         | CurrCheckoutServlet |  |
         
