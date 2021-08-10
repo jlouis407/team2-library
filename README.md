@@ -1,13 +1,13 @@
 # team2-library
-|       |FileName      | Assignment |
+|Login       |FileName      | Assignment |
 | ---   | ---          | ---       | 
-|Login  |LibrarianModel| |
-|       |LibrarianDAO  | |
-|       |PatronModel   | |
-|       |PatronDAO     | |
-|       |BookModel     | |
-|       |BookDAO       | |
-|       |BookCheckout  | |
+|       |LibrarianModel| Josiah|
+|       |LibrarianDAO  | Josiah|
+|       |PatronModel   | Charles |
+|       |PatronDAO     | Charles|
+|       |BookModel     |  Danny|
+|       |BookDAO       |  Danny|
+|       |BookCheckout  |  Nina |
         
 |       |FileName      | Assignment |
 | ---   | ---          | ---       |        
