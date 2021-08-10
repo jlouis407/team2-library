@@ -12,7 +12,7 @@
         
 |    JSP   |FileName      | Assignment |
 | ---   | ---          | ---       |        
-|   |index | Danny |
+|   |index |  |
 |      |signup | Danny |
 |      |login | |
 |      |book-list  | |
