@@ -9,9 +9,9 @@
 |       |BookDAO       |  Danny|
 |       |BookCheckout  |  Nina |
         
-|       |FileName      | Assignment |
+|    JSP   |FileName      | Assignment |
 | ---   | ---          | ---       |        
-|JSP   |index | |
+|   |index | |
 |      |signup | |
 |      |login | |
 |      |book-list  | |
@@ -23,7 +23,7 @@
 |      |account-approval | |
 |      |librarian-update | |
  
-|       |FileName      | Assignment |
+|   JDBC    |FileName      | Assignment |
 | ---   | ---          | ---       | 
 |Database(jdcb)| tables ||
 |              |patron |
@@ -31,9 +31,9 @@
 |              |book |
 |              |book_checkout |
 
-|       |FileName      | Assignment |
+|    Servlets   |FileName      | Assignment |
 | ---   | ---          | ---        | 
-|Servelts| BookServlet | |
+|       | BookServlet | |
 |       | PatronServlet| |
 |         | prevCheckoutServlet |  |
 |         | CurrCheckoutServlet |  |
