@@ -8,6 +8,7 @@
 |       |BookModel     |  Danny|
 |       |BookDAO       |  Danny|
 |       |BookCheckout  |  Nina |
+|       |BookCheckoutDAO  |  Nina |
         
 |    JSP   |FileName      | Assignment |
 | ---   | ---          | ---       |        
